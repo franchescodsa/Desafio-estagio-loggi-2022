@@ -6,6 +6,11 @@ body {
     background: -moz-linear-gradient(right, blue, rgb(255, 255, 255));
     background: linear-gradient(to right, blue, rgb(252, 252, 252));
 }
+#back-to-top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
 
 h1 {
     font-size: 40px;
